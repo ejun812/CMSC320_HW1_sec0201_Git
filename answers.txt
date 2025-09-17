@@ -8,3 +8,11 @@ previous versions if needed. In addition, Git also ensures that every
 contributor has a full copy/backup of the project, making it easier to 
 recover data. Git also records who makes each of the changes, allowing for 
 transparency.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science could be applied to many fields including healthcare. 
+In healthcare, data science can be used to analyze medical images, such as 
+X-rays or MRIs, to help detect conditions like cancer earlier and more 
+accurately than traditional methods. This can assist doctors in making 
+faster and more precise diagnoses.
