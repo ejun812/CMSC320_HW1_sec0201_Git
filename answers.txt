@@ -16,3 +16,8 @@ In healthcare, data science can be used to analyze medical images, such as
 X-rays or MRIs, to help detect conditions like cancer earlier and more 
 accurately than traditional methods. This can assist doctors in making 
 faster and more precise diagnoses.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging puts the changes together and adds a special commit showing where the branches joined, keeping the full history of both branches. Meanwhile, rebasing takes the changes and moves them on top of the other branch, making the history look neat and straight, but it changes the order and IDs of the commits.
