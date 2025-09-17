@@ -24,4 +24,4 @@ Answer: Merging puts the changes together and adds a special commit showing wher
 
 Q4: What are you looking forward to this semester?
 
-Answer: I am looking forward to getting more comfortable with coding and collaborating with my classmates as a team to work on the big class project. I am also excited to apply what I learn to real-world problems.
+Answer: This semester, I am looking forward to getting more comfortable with coding and collaborating with my classmates as a team to work on the big class project. I am also excited to apply what I learn to real-world problems.
